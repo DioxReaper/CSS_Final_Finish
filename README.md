@@ -1,0 +1,1 @@
+This project we had to pick a topic and create a interactive website that would function among multiple browsers! We had to have multiple pages and images that looked proffesional and functioned properly!
